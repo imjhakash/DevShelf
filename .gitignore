@@ -1,0 +1,13 @@
+# build output
+build/
+*.app
+*.zip
+
+# personal data and local files — never publish
+home-inventory.json
+project-check.json
+.devshelf.json
+*.pdf
+*.mp4
+.env
+.DS_Store
