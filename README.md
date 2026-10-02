@@ -6,6 +6,11 @@
 A free, open-source macOS project organizer for developers — with an MCP server so your AI assistant can organize your projects for you.</p>
 
 <p align="center">
+  <a href="https://github.com/imjhakash/DevShelf/releases/latest/download/DevShelf-trailer-30s.mp4"><img src="docs/devshelf-trailer.gif" width="800" alt="DevShelf in 30 seconds: scattered projects, one shelf, AI organizing them through MCP, external drives, Keychain logins and Git status"></a>
+  <br><sub>▶ Click for the full trailer with sound</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/imjhakash/DevShelf/releases/latest/download/DevShelf-macOS.zip"><b>⬇ Download for macOS</b></a> ·
   <a href="https://github.com/imjhakash/DevShelf/releases/latest">Release notes</a> ·
   <a href="#build-from-source">Build from source</a>
